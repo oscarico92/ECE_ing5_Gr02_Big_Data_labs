@@ -7,7 +7,7 @@ Labs of the ECE ING5 Big Data Processing course (fall 2026).
 - Group: gr-02
 - Oscar SCHWARTZ, oscarico92
 - Mathis LEITAO, <username GitHub>
-- Hugo BASSAGET, <username GitHub>
+- Hugo BASSAGET, Bassaget
 
 ## Labs
 
