@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
 *.txt
+# datasets are downloaded by the notebooks
+*.parquet
+*.csv
